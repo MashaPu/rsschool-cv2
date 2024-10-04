@@ -7,7 +7,7 @@
 * *Git-Hub: MashaPu*
 * *Telegram: Mariya_lazy_fox*
 ====
-### A little bit about me
+### About me
     \> I am 38 years old. I am a geologist engineer by profession. Throughout her career, she has mastered several professions. I decided to try myself in front-end development.
 ==== 
 ### My abilities
@@ -27,5 +27,5 @@
 ### Education
     * Ural Mining University
 ====
-### Knowledge of languages
+### Languages
 \> A1
